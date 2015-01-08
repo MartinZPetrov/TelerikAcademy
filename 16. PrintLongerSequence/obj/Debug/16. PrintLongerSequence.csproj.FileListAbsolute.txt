@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Introduction-to-Programming\16. PrintLongerSequence\bin\Debug\_16.PrintLongerSequence.exe.config
+E:\Telerik2nd\C# I\Introduction-to-Programming\16. PrintLongerSequence\bin\Debug\_16.PrintLongerSequence.exe
+E:\Telerik2nd\C# I\Introduction-to-Programming\16. PrintLongerSequence\bin\Debug\_16.PrintLongerSequence.pdb
+E:\Telerik2nd\C# I\Introduction-to-Programming\16. PrintLongerSequence\obj\Debug\_16.PrintLongerSequence.exe
+E:\Telerik2nd\C# I\Introduction-to-Programming\16. PrintLongerSequence\obj\Debug\_16.PrintLongerSequence.pdb
