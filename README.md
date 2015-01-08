@@ -1,2 +1,2 @@
 # TelerikAcademy
-Exercising coding is the main goal.
+Exercise coding is the main goal.
