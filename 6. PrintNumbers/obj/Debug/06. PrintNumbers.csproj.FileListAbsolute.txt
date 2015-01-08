@@ -1,0 +1,1 @@
+E:\Telerik2nd\C# I\Introduction-to-Programming\6. PrintNumbers\bin\Debug\_6.PrintNumbers.exe.config
