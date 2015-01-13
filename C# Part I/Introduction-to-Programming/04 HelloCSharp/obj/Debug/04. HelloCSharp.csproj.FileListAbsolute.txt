@@ -1,0 +1,3 @@
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\04 HelloCSharp\bin\Debug\HelloWorld.exe.config
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\04 HelloCSharp\obj\Debug\HelloWorld.exe
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\04 HelloCSharp\obj\Debug\HelloWorld.pdb

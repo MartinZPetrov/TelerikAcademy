@@ -1,5 +1,0 @@
-E:\Telerik2nd\C# I\Introduction-to-Programming\SquareRoot\bin\Debug\SquareRoot.exe.config
-E:\Telerik2nd\C# I\Introduction-to-Programming\SquareRoot\bin\Debug\SquareRoot.exe
-E:\Telerik2nd\C# I\Introduction-to-Programming\SquareRoot\bin\Debug\SquareRoot.pdb
-E:\Telerik2nd\C# I\Introduction-to-Programming\SquareRoot\obj\Debug\SquareRoot.exe
-E:\Telerik2nd\C# I\Introduction-to-Programming\SquareRoot\obj\Debug\SquareRoot.pdb

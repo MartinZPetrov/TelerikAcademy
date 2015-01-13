@@ -1,3 +1,0 @@
-E:\Telerik2nd\C# I\Introduction-to-Programming\HelloWorld\bin\Debug\HelloWorld.exe.config
-E:\Telerik2nd\C# I\Introduction-to-Programming\HelloWorld\obj\Debug\HelloWorld.exe
-E:\Telerik2nd\C# I\Introduction-to-Programming\HelloWorld\obj\Debug\HelloWorld.pdb
