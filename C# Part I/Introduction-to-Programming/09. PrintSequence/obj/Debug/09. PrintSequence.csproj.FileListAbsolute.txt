@@ -1,0 +1,9 @@
+E:\Telerik2nd\C# I\Introduction-to-Programming\9. PrintSequence\bin\Debug\_9.PrintSequence.exe.config
+E:\Telerik2nd\C# I\Introduction-to-Programming\9. PrintSequence\obj\Debug\_9.PrintSequence.exe
+E:\Telerik2nd\C# I\Introduction-to-Programming\9. PrintSequence\obj\Debug\_9.PrintSequence.pdb
+E:\Telerik2nd\C# I\Introduction-to-Programming\9. PrintSequence\bin\Debug\_9.PrintSequence.exe
+E:\Telerik2nd\C# I\Introduction-to-Programming\9. PrintSequence\bin\Debug\_9.PrintSequence.pdb
+E:\Telerik2nd\C# I\Introduction-to-Programming\9. PrintSequence\obj\Debug\09. PrintSequence.csprojResolveAssemblyReference.cache
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\09. PrintSequence\bin\Debug\_9.PrintSequence.exe.config
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\09. PrintSequence\obj\Debug\_9.PrintSequence.exe
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\09. PrintSequence\obj\Debug\_9.PrintSequence.pdb

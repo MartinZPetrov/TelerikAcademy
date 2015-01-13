@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\Introduction-to-Programming\14. AgeAfter10Years\bin\Debug\_14.AgeAfter10Years.exe.config
+E:\Telerik2nd\C# I\Introduction-to-Programming\14. AgeAfter10Years\obj\Debug\_14.AgeAfter10Years.exe
+E:\Telerik2nd\C# I\Introduction-to-Programming\14. AgeAfter10Years\obj\Debug\_14.AgeAfter10Years.pdb
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\15. AgeAfter10Years\bin\Debug\_14.AgeAfter10Years.exe.config
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\15. AgeAfter10Years\obj\Debug\_14.AgeAfter10Years.exe
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\15. AgeAfter10Years\obj\Debug\_14.AgeAfter10Years.pdb
