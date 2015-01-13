@@ -1,5 +1,0 @@
-E:\Telerik2nd\C# I\Introduction-to-Programming\14. CurrentDateTime\bin\Debug\_14.CurrentDateTime.exe.config
-E:\Telerik2nd\C# I\Introduction-to-Programming\14. CurrentDateTime\bin\Debug\_14.CurrentDateTime.exe
-E:\Telerik2nd\C# I\Introduction-to-Programming\14. CurrentDateTime\bin\Debug\_14.CurrentDateTime.pdb
-E:\Telerik2nd\C# I\Introduction-to-Programming\14. CurrentDateTime\obj\Debug\_14.CurrentDateTime.exe
-E:\Telerik2nd\C# I\Introduction-to-Programming\14. CurrentDateTime\obj\Debug\_14.CurrentDateTime.pdb

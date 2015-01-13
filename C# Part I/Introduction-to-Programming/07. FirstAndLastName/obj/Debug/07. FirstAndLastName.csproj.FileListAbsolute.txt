@@ -1,0 +1,2 @@
+E:\Telerik2nd\C# I\Introduction-to-Programming\7. FirstAndLastName\bin\Debug\_7.FirstAndLastName.exe.config
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\07. FirstAndLastName\bin\Debug\_7.FirstAndLastName.exe.config
