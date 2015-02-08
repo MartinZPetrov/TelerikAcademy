@@ -1,0 +1,6 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfPrimae\bin\Debug\CheckIfPrimae.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfPrimae\bin\Debug\CheckIfPrimae.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfPrimae\bin\Debug\CheckIfPrimae.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfPrimae\obj\Debug\07. CheckIfPrime.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfPrimae\obj\Debug\CheckIfPrimae.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfPrimae\obj\Debug\CheckIfPrimae.pdb

@@ -1,0 +1,12 @@
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.exe.config
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\obj\Debug\CheckIfDigitEqulasSeven.csprojResolveAssemblyReference.cache
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.exe
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.pdb
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\obj\Debug\CheckIfDigitEqulasSeven.exe
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\obj\Debug\CheckIfDigitEqulasSeven.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\obj\Debug\CheckIfDigitEqulasSeven.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\obj\Debug\CheckIfDigitEqulasSeven.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckIfDigitEqulasSeven\obj\Debug\CheckIfDigitEqulasSeven.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Conditional-Statement\BonusScore\bin\Debug\BonusScore.exe.config
+E:\Telerik2nd\C# I\Conditional-Statement\BonusScore\bin\Debug\BonusScore.exe
+E:\Telerik2nd\C# I\Conditional-Statement\BonusScore\bin\Debug\BonusScore.pdb
+E:\Telerik2nd\C# I\Conditional-Statement\BonusScore\obj\Debug\BonusScore.exe
+E:\Telerik2nd\C# I\Conditional-Statement\BonusScore\obj\Debug\BonusScore.pdb

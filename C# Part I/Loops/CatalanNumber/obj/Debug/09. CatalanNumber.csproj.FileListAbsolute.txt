@@ -1,0 +1,5 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\CatalanNumber\bin\Debug\CatalanNumber.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\CatalanNumber\bin\Debug\CatalanNumber.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\CatalanNumber\bin\Debug\CatalanNumber.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\CatalanNumber\obj\Debug\CatalanNumber.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\CatalanNumber\obj\Debug\CatalanNumber.pdb

@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Loops\CalculateGCD\bin\Debug\CalculateGCD.exe.config
+E:\Telerik2nd\C# I\Loops\CalculateGCD\bin\Debug\CalculateGCD.exe
+E:\Telerik2nd\C# I\Loops\CalculateGCD\bin\Debug\CalculateGCD.pdb
+E:\Telerik2nd\C# I\Loops\CalculateGCD\obj\Debug\CalculateGCD.exe
+E:\Telerik2nd\C# I\Loops\CalculateGCD\obj\Debug\CalculateGCD.pdb

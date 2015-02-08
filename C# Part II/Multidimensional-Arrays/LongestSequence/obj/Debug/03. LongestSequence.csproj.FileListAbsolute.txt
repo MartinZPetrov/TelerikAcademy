@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LongestSequence\bin\Debug\LongestSequence.exe.config
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LongestSequence\bin\Debug\LongestSequence.exe
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LongestSequence\bin\Debug\LongestSequence.pdb
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LongestSequence\obj\Debug\03. LongestSequence.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LongestSequence\obj\Debug\LongestSequence.exe
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LongestSequence\obj\Debug\LongestSequence.pdb

@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\MergeSort\bin\Debug\MergeSort.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\MergeSort\bin\Debug\MergeSort.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\MergeSort\bin\Debug\MergeSort.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\MergeSort\obj\Debug\MergeSort.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\MergeSort\obj\Debug\MergeSort.pdb

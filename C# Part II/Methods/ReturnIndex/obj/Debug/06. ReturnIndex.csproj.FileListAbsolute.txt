@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReturnIndex\bin\Debug\ReturnIndex.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReturnIndex\bin\Debug\ReturnIndex.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReturnIndex\bin\Debug\ReturnIndex.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReturnIndex\obj\Debug\ReturnIndex.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReturnIndex\obj\Debug\ReturnIndex.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReturnIndex\obj\Debug\06. ReturnIndex.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# II\Methods\ReturnIndex\bin\Debug\ReturnIndex.exe.config
+E:\Telerik2nd\C# II\Methods\ReturnIndex\obj\Debug\ReturnIndex.exe
+E:\Telerik2nd\C# II\Methods\ReturnIndex\obj\Debug\ReturnIndex.pdb

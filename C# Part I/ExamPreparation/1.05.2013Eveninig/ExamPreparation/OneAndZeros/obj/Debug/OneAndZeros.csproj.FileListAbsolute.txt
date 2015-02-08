@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\OneAndZeros\bin\Debug\OneAndZeros.exe.config
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\OneAndZeros\bin\Debug\OneAndZeros.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\OneAndZeros\bin\Debug\OneAndZeros.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\OneAndZeros\obj\Debug\OneAndZeros.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\OneAndZeros\obj\Debug\OneAndZeros.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\OneAndZeros\obj\Debug\OneAndZeros.pdb

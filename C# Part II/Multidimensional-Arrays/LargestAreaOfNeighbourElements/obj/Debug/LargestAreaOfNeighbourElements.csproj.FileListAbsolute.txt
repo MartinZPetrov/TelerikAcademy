@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LargestAreaOfNeighbourElements\bin\Debug\LargestAreaOfNeighbourElements.exe.config
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LargestAreaOfNeighbourElements\bin\Debug\LargestAreaOfNeighbourElements.exe
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LargestAreaOfNeighbourElements\bin\Debug\LargestAreaOfNeighbourElements.pdb
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LargestAreaOfNeighbourElements\obj\Debug\LargestAreaOfNeighbourElements.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LargestAreaOfNeighbourElements\obj\Debug\LargestAreaOfNeighbourElements.exe
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\LargestAreaOfNeighbourElements\obj\Debug\LargestAreaOfNeighbourElements.pdb

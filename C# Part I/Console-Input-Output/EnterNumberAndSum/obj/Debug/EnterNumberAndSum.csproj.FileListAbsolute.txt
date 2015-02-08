@@ -1,0 +1,1 @@
+D:\Martin\TelerikC#\Console-Input-Output\EnterNumberAndSum\bin\Debug\EnterNumberAndSum.exe.config

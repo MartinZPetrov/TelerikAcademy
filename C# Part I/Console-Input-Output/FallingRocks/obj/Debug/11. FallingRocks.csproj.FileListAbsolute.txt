@@ -1,0 +1,11 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\FallingRocks\bin\Debug\FallingRocks.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\FallingRocks\bin\Debug\FallingRocks.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\FallingRocks\bin\Debug\FallingRocks.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\FallingRocks\obj\Debug\FallingRocks.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Vhod-i-izhod-ot-konzolata_2013-11-22_23-06 (1)\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Vhod-i-izhod-ot-konzolata_2013-11-22_23-06 (1)\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Vhod-i-izhod-ot-konzolata_2013-11-22_23-06 (1)\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Vhod-i-izhod-ot-konzolata_2013-11-22_23-06 (1)\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Vhod-i-izhod-ot-konzolata_2013-11-22_23-06 (1)\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Vhod-i-izhod-ot-konzolata_2013-11-22_23-06 (1)\FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache

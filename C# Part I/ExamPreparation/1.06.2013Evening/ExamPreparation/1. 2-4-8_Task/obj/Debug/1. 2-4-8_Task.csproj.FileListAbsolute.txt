@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\1. 2-4-8_Task\bin\Debug\1. 2-4-8_Task.exe.config
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\1. 2-4-8_Task\bin\Debug\1. 2-4-8_Task.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\1. 2-4-8_Task\bin\Debug\1. 2-4-8_Task.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\1. 2-4-8_Task\obj\Debug\1. 2-4-8_Task.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\1. 2-4-8_Task\obj\Debug\1. 2-4-8_Task.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\1. 2-4-8_Task\obj\Debug\1. 2-4-8_Task.pdb

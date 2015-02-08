@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayCombinations\bin\Debug\ArrayCombinations.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayCombinations\bin\Debug\ArrayCombinations.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayCombinations\bin\Debug\ArrayCombinations.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayCombinations\obj\Debug\21. ArrayCombinations.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayCombinations\obj\Debug\ArrayCombinations.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayCombinations\obj\Debug\ArrayCombinations.pdb

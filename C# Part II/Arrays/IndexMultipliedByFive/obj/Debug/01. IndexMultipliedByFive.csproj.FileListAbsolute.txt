@@ -1,0 +1,12 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\IndexMultipliedByFive\bin\Debug\IndexMultipliedByFive.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\IndexMultipliedByFive\bin\Debug\IndexMultipliedByFive.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\IndexMultipliedByFive\bin\Debug\IndexMultipliedByFive.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\IndexMultipliedByFive\obj\Debug\01. IndexMultipliedByFive.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Arrays\Arrays\IndexMultipliedByFive\obj\Debug\IndexMultipliedByFive.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\IndexMultipliedByFive\obj\Debug\IndexMultipliedByFive.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\IndexMultipliedByFive\bin\Debug\IndexMultipliedByFive.exe.config
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\IndexMultipliedByFive\obj\Debug\IndexMultipliedByFive.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\IndexMultipliedByFive\obj\Debug\IndexMultipliedByFive.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\IndexMultipliedByFive\bin\Debug\IndexMultipliedByFive.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\IndexMultipliedByFive\bin\Debug\IndexMultipliedByFive.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\IndexMultipliedByFive\obj\Debug\01. IndexMultipliedByFive.csprojResolveAssemblyReference.cache

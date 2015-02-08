@@ -1,0 +1,6 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintFrom1ToN\bin\Debug\PrintFrom1ToN.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintFrom1ToN\bin\Debug\PrintFrom1ToN.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintFrom1ToN\bin\Debug\PrintFrom1ToN.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintFrom1ToN\obj\Debug\PrintFrom1ToN.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintFrom1ToN\obj\Debug\PrintFrom1ToN.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintFrom1ToN\obj\Debug\PrintFrom1ToN.pdb

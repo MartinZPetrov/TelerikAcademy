@@ -1,0 +1,1 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\ReadNumbersAndSum\bin\Debug\ReadNumbersAndSum.exe.config

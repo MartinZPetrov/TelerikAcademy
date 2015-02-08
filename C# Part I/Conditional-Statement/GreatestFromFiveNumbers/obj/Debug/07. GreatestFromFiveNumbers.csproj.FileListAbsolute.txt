@@ -1,0 +1,6 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\GreatestFromFiveNumbers\bin\Debug\GreatestFromFiveNumbers.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\GreatestFromFiveNumbers\bin\Debug\GreatestFromFiveNumbers.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\GreatestFromFiveNumbers\bin\Debug\GreatestFromFiveNumbers.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\GreatestFromFiveNumbers\obj\Debug\07. GreatestFromFiveNumbers.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\GreatestFromFiveNumbers\obj\Debug\GreatestFromFiveNumbers.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\GreatestFromFiveNumbers\obj\Debug\GreatestFromFiveNumbers.pdb

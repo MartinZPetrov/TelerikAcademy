@@ -1,0 +1,15 @@
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\02. IntegerWihoutRemainder.csprojResolveAssemblyReference.cache
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ConsoleApplication1\obj\Debug\02. IntegerWihoutRemainder.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\IntegerWihoutRemainder\bin\Debug\ConsoleApplication1.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\IntegerWihoutRemainder\obj\Debug\ConsoleApplication1.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\IntegerWihoutRemainder\obj\Debug\ConsoleApplication1.pdb

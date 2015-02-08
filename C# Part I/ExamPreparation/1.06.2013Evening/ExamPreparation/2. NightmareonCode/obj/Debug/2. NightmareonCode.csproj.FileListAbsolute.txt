@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\2. NightmareonCode\bin\Debug\_2.NightmareonCode.exe.config
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\2. NightmareonCode\bin\Debug\_2.NightmareonCode.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\2. NightmareonCode\bin\Debug\_2.NightmareonCode.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\2. NightmareonCode\obj\Debug\_2.NightmareonCode.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\2. NightmareonCode\obj\Debug\_2.NightmareonCode.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\2. NightmareonCode\obj\Debug\2. NightmareonCode.csprojResolveAssemblyReference.cache

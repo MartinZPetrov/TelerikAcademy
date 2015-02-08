@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitsExchange\bin\Debug\BitsExchange.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitsExchange\bin\Debug\BitsExchange.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitsExchange\bin\Debug\BitsExchange.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitsExchange\obj\Debug\BitsExchange.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitsExchange\obj\Debug\BitsExchange.pdb

@@ -1,0 +1,1 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\MaxAndMinalFromSequence\bin\Debug\MaxAndMinalFromSequence.exe.config

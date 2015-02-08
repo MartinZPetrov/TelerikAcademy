@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Loops\OddandEvenProduct\bin\Debug\OddandEvenProduct.exe.config
+E:\Telerik2nd\C# I\Loops\OddandEvenProduct\bin\Debug\OddandEvenProduct.exe
+E:\Telerik2nd\C# I\Loops\OddandEvenProduct\bin\Debug\OddandEvenProduct.pdb
+E:\Telerik2nd\C# I\Loops\OddandEvenProduct\obj\Debug\OddandEvenProduct.exe
+E:\Telerik2nd\C# I\Loops\OddandEvenProduct\obj\Debug\OddandEvenProduct.pdb

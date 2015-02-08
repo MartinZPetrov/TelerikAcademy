@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\AngyFemaleGPS\bin\Debug\AngyFemaleGPS.exe.config
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\AngyFemaleGPS\bin\Debug\AngyFemaleGPS.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\AngyFemaleGPS\bin\Debug\AngyFemaleGPS.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\AngyFemaleGPS\obj\Debug\AngyFemaleGPS.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\AngyFemaleGPS\obj\Debug\AngyFemaleGPS.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\AngyFemaleGPS\obj\Debug\AngyFemaleGPS.pdb

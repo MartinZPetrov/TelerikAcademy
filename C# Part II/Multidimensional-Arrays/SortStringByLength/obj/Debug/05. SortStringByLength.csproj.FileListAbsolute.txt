@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\SortStringByLength\bin\Debug\SortStringByLength.exe.config
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\SortStringByLength\bin\Debug\SortStringByLength.exe
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\SortStringByLength\bin\Debug\SortStringByLength.pdb
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\SortStringByLength\obj\Debug\05. SortStringByLength.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\SortStringByLength\obj\Debug\SortStringByLength.exe
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\SortStringByLength\obj\Debug\SortStringByLength.pdb

@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitExchangeAdanvced\bin\Debug\BitExchangeAdanvced.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitExchangeAdanvced\bin\Debug\BitExchangeAdanvced.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitExchangeAdanvced\bin\Debug\BitExchangeAdanvced.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitExchangeAdanvced\obj\Debug\BitExchangeAdanvced.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\BitExchangeAdanvced\obj\Debug\BitExchangeAdanvced.pdb

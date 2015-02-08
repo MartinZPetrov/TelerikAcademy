@@ -1,0 +1,8 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\ArraySumFromGivenRange\bin\Debug\ArraySumFromGivenRange.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\ArraySumFromGivenRange\bin\Debug\ArraySumFromGivenRange.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\ArraySumFromGivenRange\bin\Debug\ArraySumFromGivenRange.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\ArraySumFromGivenRange\obj\Debug\ArraySumFromGivenRange.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\ArraySumFromGivenRange\obj\Debug\ArraySumFromGivenRange.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\ArraySumFromGivenRange\bin\Debug\ArraySumFromGivenRange.exe.config
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\ArraySumFromGivenRange\obj\Debug\ArraySumFromGivenRange.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\ArraySumFromGivenRange\obj\Debug\ArraySumFromGivenRange.pdb

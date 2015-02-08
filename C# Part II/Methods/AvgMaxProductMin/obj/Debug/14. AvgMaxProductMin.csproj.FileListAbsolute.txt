@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AvgMaxProductMin\bin\Debug\AvgMaxProductMin.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AvgMaxProductMin\bin\Debug\AvgMaxProductMin.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AvgMaxProductMin\bin\Debug\AvgMaxProductMin.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AvgMaxProductMin\obj\Debug\14. AvgMaxProductMin.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AvgMaxProductMin\obj\Debug\AvgMaxProductMin.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AvgMaxProductMin\obj\Debug\AvgMaxProductMin.pdb
+E:\Telerik2nd\C# II\Methods\AvgMaxProductMin\bin\Debug\AvgMaxProductMin.exe.config
+E:\Telerik2nd\C# II\Methods\AvgMaxProductMin\obj\Debug\AvgMaxProductMin.exe
+E:\Telerik2nd\C# II\Methods\AvgMaxProductMin\obj\Debug\AvgMaxProductMin.pdb

@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Loops\CatalanNumber\bin\Debug\CatalanNumber.exe.config
+E:\Telerik2nd\C# I\Loops\CatalanNumber\obj\Debug\CatalanNumber.exe
+E:\Telerik2nd\C# I\Loops\CatalanNumber\obj\Debug\CatalanNumber.pdb
+E:\Telerik2nd\C# I\Loops\CatalanNumber\bin\Debug\CatalanNumber.exe
+E:\Telerik2nd\C# I\Loops\CatalanNumber\bin\Debug\CatalanNumber.pdb

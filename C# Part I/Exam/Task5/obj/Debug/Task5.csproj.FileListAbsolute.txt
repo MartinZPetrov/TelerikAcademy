@@ -1,0 +1,6 @@
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task5\bin\Debug\Task5.exe.config
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task5\bin\Debug\Task5.exe
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task5\bin\Debug\Task5.pdb
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task5\obj\Debug\Task5.exe
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task5\obj\Debug\Task5.pdb
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\Quicksort\bin\Debug\Quicksort.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\Quicksort\bin\Debug\Quicksort.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\Quicksort\bin\Debug\Quicksort.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\Quicksort\obj\Debug\Quicksort.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\Quicksort\obj\Debug\Quicksort.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\Quicksort\obj\Debug\14. Quicksort.csprojResolveAssemblyReference.cache

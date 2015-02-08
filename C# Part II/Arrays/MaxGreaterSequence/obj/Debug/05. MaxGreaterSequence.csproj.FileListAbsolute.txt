@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\MaxGreaterSequence\bin\Debug\MaxGreaterSequence.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\MaxGreaterSequence\bin\Debug\MaxGreaterSequence.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\MaxGreaterSequence\bin\Debug\MaxGreaterSequence.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\MaxGreaterSequence\obj\Debug\05. MaxGreaterSequence.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Arrays\Arrays\MaxGreaterSequence\obj\Debug\MaxGreaterSequence.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\MaxGreaterSequence\obj\Debug\MaxGreaterSequence.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\MaxGreaterSequence\bin\Debug\MaxGreaterSequence.exe.config
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\MaxGreaterSequence\obj\Debug\MaxGreaterSequence.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\MaxGreaterSequence\obj\Debug\MaxGreaterSequence.pdb

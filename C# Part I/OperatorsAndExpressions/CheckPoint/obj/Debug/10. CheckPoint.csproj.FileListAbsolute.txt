@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckPoint\bin\Debug\CheckPoint.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckPoint\bin\Debug\CheckPoint.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckPoint\bin\Debug\CheckPoint.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckPoint\obj\Debug\CheckPoint.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckPoint\obj\Debug\CheckPoint.pdb

@@ -1,0 +1,5 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

@@ -1,0 +1,12 @@
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\obj\Debug\03. CalculateRectangleArea.csprojResolveAssemblyReference.cache
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe.config
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.pdb
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.exe
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\obj\Debug\03. CalculateRectangleArea.csprojResolveAssemblyReference.cache

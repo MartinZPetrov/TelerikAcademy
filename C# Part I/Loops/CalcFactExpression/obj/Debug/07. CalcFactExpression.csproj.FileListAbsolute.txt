@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\Loops\CalcFactExpression\bin\Debug\CalcFactExpression.exe.config
+E:\Telerik2nd\C# I\Loops\CalcFactExpression\bin\Debug\CalcFactExpression.exe
+E:\Telerik2nd\C# I\Loops\CalcFactExpression\bin\Debug\CalcFactExpression.pdb
+E:\Telerik2nd\C# I\Loops\CalcFactExpression\obj\Debug\07. CalcFactExpression.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# I\Loops\CalcFactExpression\obj\Debug\CalcFactExpression.exe
+E:\Telerik2nd\C# I\Loops\CalcFactExpression\obj\Debug\CalcFactExpression.pdb

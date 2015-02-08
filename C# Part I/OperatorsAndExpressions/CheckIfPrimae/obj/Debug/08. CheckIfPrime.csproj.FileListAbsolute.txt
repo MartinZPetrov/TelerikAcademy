@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfPrimae\bin\Debug\CheckIfPrimae.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfPrimae\obj\Debug\CheckIfPrimae.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfPrimae\obj\Debug\CheckIfPrimae.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfPrimae\bin\Debug\CheckIfPrimae.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfPrimae\bin\Debug\CheckIfPrimae.pdb

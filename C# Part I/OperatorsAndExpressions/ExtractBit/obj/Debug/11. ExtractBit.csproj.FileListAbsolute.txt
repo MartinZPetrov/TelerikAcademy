@@ -1,0 +1,10 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ExtractBit\bin\Debug\ExtractBit.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ExtractBit\bin\Debug\ExtractBit.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ExtractBit\bin\Debug\ExtractBit.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ExtractBit\obj\Debug\ExtractBit.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\ExtractBit\obj\Debug\ExtractBit.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBit\bin\Debug\ExtractBit.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBit\obj\Debug\ExtractBit.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBit\obj\Debug\ExtractBit.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBit\bin\Debug\ExtractBit.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBit\bin\Debug\ExtractBit.pdb

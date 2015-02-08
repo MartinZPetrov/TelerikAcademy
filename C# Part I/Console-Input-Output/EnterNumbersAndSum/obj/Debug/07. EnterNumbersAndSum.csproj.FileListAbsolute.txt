@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\Console-Input-Output\EnterNumbersAndSum\bin\Debug\EnterNumbersAndSum.exe.config
+E:\Telerik2nd\C# I\Console-Input-Output\EnterNumbersAndSum\bin\Debug\EnterNumbersAndSum.exe
+E:\Telerik2nd\C# I\Console-Input-Output\EnterNumbersAndSum\bin\Debug\EnterNumbersAndSum.pdb
+E:\Telerik2nd\C# I\Console-Input-Output\EnterNumbersAndSum\obj\Debug\07. EnterNumbersAndSum.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# I\Console-Input-Output\EnterNumbersAndSum\obj\Debug\EnterNumbersAndSum.exe
+E:\Telerik2nd\C# I\Console-Input-Output\EnterNumbersAndSum\obj\Debug\EnterNumbersAndSum.pdb

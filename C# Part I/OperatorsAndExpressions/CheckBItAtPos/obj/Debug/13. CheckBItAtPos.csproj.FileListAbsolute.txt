@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckBItAtPos\bin\Debug\CheckBItAtPos.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckBItAtPos\bin\Debug\CheckBItAtPos.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckBItAtPos\bin\Debug\CheckBItAtPos.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckBItAtPos\obj\Debug\CheckBItAtPos.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckBItAtPos\obj\Debug\CheckBItAtPos.pdb

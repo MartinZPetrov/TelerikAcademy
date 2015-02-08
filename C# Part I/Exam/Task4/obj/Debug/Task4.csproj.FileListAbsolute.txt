@@ -1,0 +1,6 @@
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task4\bin\Debug\Task4.exe.config
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task4\bin\Debug\Task4.exe
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task4\bin\Debug\Task4.pdb
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task4\obj\Debug\Task4.exe
+C:\Users\softwareacademy\Desktop\Exam\Solution1\Task4\obj\Debug\Task4.pdb

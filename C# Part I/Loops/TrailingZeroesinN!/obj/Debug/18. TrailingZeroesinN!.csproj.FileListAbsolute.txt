@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Loops\TrailingZeroesinN!\bin\Debug\TrailingZeroesinN!.exe.config
+E:\Telerik2nd\C# I\Loops\TrailingZeroesinN!\bin\Debug\TrailingZeroesinN!.exe
+E:\Telerik2nd\C# I\Loops\TrailingZeroesinN!\bin\Debug\TrailingZeroesinN!.pdb
+E:\Telerik2nd\C# I\Loops\TrailingZeroesinN!\obj\Debug\TrailingZeroesinN!.exe
+E:\Telerik2nd\C# I\Loops\TrailingZeroesinN!\obj\Debug\TrailingZeroesinN!.pdb

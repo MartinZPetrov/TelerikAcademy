@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\SequenceOfGivenSum\obj\Debug\10. SequenceOfGivenSum.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Arrays\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.pdb

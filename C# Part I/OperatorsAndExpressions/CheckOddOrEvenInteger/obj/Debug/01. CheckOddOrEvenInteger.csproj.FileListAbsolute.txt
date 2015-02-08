@@ -1,0 +1,19 @@
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.exe.config
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.exe
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.pdb
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\obj\Debug\CheckOddOrEvenInteger.exe
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\obj\Debug\CheckOddOrEvenInteger.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\obj\Debug\CheckOddOrEvenInteger.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\obj\Debug\CheckOddOrEvenInteger.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Operatori-i-izrazi_2013-11-17_20-45 (1)\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.exe.config
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Operatori-i-izrazi_2013-11-17_20-45 (1)\CheckOddOrEvenInteger\obj\Debug\CheckOddOrEvenInteger.exe
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Operatori-i-izrazi_2013-11-17_20-45 (1)\CheckOddOrEvenInteger\obj\Debug\CheckOddOrEvenInteger.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckOddOrEvenInteger\obj\Debug\CheckOddOrEvenInteger.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckOddOrEvenInteger\obj\Debug\CheckOddOrEvenInteger.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckOddOrEvenInteger\bin\Debug\CheckOddOrEvenInteger.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckOddOrEvenInteger\obj\Debug\01. CheckOddOrEvenInteger.csprojResolveAssemblyReference.cache

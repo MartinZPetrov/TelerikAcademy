@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AddPositive\bin\Debug\AddPositive.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AddPositive\bin\Debug\AddPositive.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AddPositive\bin\Debug\AddPositive.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AddPositive\obj\Debug\08. AddPositive.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AddPositive\obj\Debug\AddPositive.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\AddPositive\obj\Debug\AddPositive.pdb
+E:\Telerik2nd\C# II\Methods\AddPositive\bin\Debug\AddPositive.exe.config
+E:\Telerik2nd\C# II\Methods\AddPositive\obj\Debug\AddPositive.exe
+E:\Telerik2nd\C# II\Methods\AddPositive\obj\Debug\AddPositive.pdb

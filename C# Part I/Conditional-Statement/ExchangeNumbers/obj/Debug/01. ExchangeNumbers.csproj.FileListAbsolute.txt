@@ -1,0 +1,15 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ExchangeNumbers\bin\Debug\ExchangeNumbers.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ExchangeNumbers\obj\Debug\01. ExchangeNumbers.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ExchangeNumbers\obj\Debug\ExchangeNumbers.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ExchangeNumbers\obj\Debug\ExchangeNumbers.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Uslovni-konstrukcii_2013-11-25_18-55\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe.config
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Uslovni-konstrukcii_2013-11-25_18-55\ExchangeNumbers\obj\Debug\ExchangeNumbers.exe
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Uslovni-konstrukcii_2013-11-25_18-55\ExchangeNumbers\obj\Debug\ExchangeNumbers.pdb
+E:\Telerik2nd\C# I\Conditional-Statement\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe.config
+E:\Telerik2nd\C# I\Conditional-Statement\ExchangeNumbers\obj\Debug\ExchangeNumbers.exe
+E:\Telerik2nd\C# I\Conditional-Statement\ExchangeNumbers\obj\Debug\ExchangeNumbers.pdb
+E:\Telerik2nd\C# I\Conditional-Statement\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe
+E:\Telerik2nd\C# I\Conditional-Statement\ExchangeNumbers\bin\Debug\ExchangeNumbers.pdb
+E:\Telerik2nd\C# I\Conditional-Statement\ExchangeNumbers\obj\Debug\01. ExchangeNumbers.csprojResolveAssemblyReference.cache

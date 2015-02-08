@@ -1,0 +1,2 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\CalculateN!\bin\Debug\CalculateN!.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\CalculateN!\obj\Debug\10. CalculateN!.csprojResolveAssemblyReference.cache

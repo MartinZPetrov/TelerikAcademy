@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+E:\Telerik2nd\C# I\Console-Input-Output\CompanyInfo\obj\Debug\CompanyInfo.exe
+E:\Telerik2nd\C# I\Console-Input-Output\CompanyInfo\obj\Debug\CompanyInfo.pdb
+E:\Telerik2nd\C# I\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.exe
+E:\Telerik2nd\C# I\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.pdb

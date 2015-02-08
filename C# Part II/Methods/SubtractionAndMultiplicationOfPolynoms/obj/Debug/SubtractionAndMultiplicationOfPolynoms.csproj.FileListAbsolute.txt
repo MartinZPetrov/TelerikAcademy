@@ -1,0 +1,1 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\SubtractionAndMultiplicationOfPolynoms\bin\Debug\SubtractionAndMultiplicationOfPolynoms.exe.config

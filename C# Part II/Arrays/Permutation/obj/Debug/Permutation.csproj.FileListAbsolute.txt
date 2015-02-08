@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\Permutation\bin\Debug\Permutation.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\Permutation\bin\Debug\Permutation.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\Permutation\bin\Debug\Permutation.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\Permutation\obj\Debug\Permutation.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\Permutation\obj\Debug\Permutation.pdb

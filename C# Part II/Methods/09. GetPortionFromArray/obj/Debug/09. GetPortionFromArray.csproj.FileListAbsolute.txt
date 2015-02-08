@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\09. GetPortionFromArray\bin\Debug\_09.GetPortionFromArray.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\09. GetPortionFromArray\bin\Debug\_09.GetPortionFromArray.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\09. GetPortionFromArray\bin\Debug\_09.GetPortionFromArray.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\09. GetPortionFromArray\obj\Debug\_09.GetPortionFromArray.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\09. GetPortionFromArray\obj\Debug\_09.GetPortionFromArray.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\09. GetPortionFromArray\obj\Debug\09. GetPortionFromArray.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# II\Methods\09. GetPortionFromArray\bin\Debug\_09.GetPortionFromArray.exe.config
+E:\Telerik2nd\C# II\Methods\09. GetPortionFromArray\obj\Debug\_09.GetPortionFromArray.exe
+E:\Telerik2nd\C# II\Methods\09. GetPortionFromArray\obj\Debug\_09.GetPortionFromArray.pdb

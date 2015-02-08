@@ -1,0 +1,9 @@
+D:\Martin\TelerikC#\Console-Input-Output\GreaterFromTwoNumbers\obj\Debug\05. GreaterFromTwoNumbers.csprojResolveAssemblyReference.cache
+D:\Martin\TelerikC#\Console-Input-Output\GreaterFromTwoNumbers\bin\Debug\GreaterFromTwoNumbers.exe.config
+D:\Martin\TelerikC#\Console-Input-Output\GreaterFromTwoNumbers\bin\Debug\GreaterFromTwoNumbers.exe
+D:\Martin\TelerikC#\Console-Input-Output\GreaterFromTwoNumbers\bin\Debug\GreaterFromTwoNumbers.pdb
+D:\Martin\TelerikC#\Console-Input-Output\GreaterFromTwoNumbers\obj\Debug\GreaterFromTwoNumbers.exe
+D:\Martin\TelerikC#\Console-Input-Output\GreaterFromTwoNumbers\obj\Debug\GreaterFromTwoNumbers.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\GreaterFromTwoNumbers\bin\Debug\GreaterFromTwoNumbers.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\GreaterFromTwoNumbers\obj\Debug\GreaterFromTwoNumbers.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\GreaterFromTwoNumbers\obj\Debug\GreaterFromTwoNumbers.pdb

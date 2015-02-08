@@ -1,0 +1,1 @@
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\Matrix\bin\Debug\Matrix.exe.config

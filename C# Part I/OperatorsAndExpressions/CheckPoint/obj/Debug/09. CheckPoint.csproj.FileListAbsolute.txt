@@ -1,0 +1,6 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckPoint\bin\Debug\CheckPoint.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckPoint\obj\Debug\09. CheckPoint.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckPoint\bin\Debug\CheckPoint.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckPoint\bin\Debug\CheckPoint.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckPoint\obj\Debug\CheckPoint.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CheckPoint\obj\Debug\CheckPoint.pdb

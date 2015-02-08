@@ -1,0 +1,1 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintCards\bin\Debug\PrintCards.exe.config

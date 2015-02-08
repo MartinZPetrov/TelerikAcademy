@@ -1,0 +1,12 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\maxequalsequence\bin\Debug\maxequalsequence.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\maxequalsequence\bin\Debug\maxequalsequence.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\maxequalsequence\bin\Debug\maxequalsequence.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\maxequalsequence\obj\Debug\04. MaxEqualSequence.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Arrays\Arrays\maxequalsequence\obj\Debug\maxequalsequence.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\maxequalsequence\obj\Debug\maxequalsequence.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\maxequalsequence\bin\Debug\maxequalsequence.exe.config
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\maxequalsequence\obj\Debug\maxequalsequence.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\maxequalsequence\obj\Debug\maxequalsequence.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\maxequalsequence\bin\Debug\maxequalsequence.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\maxequalsequence\bin\Debug\maxequalsequence.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\maxequalsequence\obj\Debug\04. MaxEqualSequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintCards\bin\Debug\PrintCards.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintCards\bin\Debug\PrintCards.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintCards\bin\Debug\PrintCards.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintCards\obj\Debug\11. PrintCards.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintCards\obj\Debug\PrintCards.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\PrintCards\obj\Debug\PrintCards.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\PrintCards\bin\Debug\PrintCards.exe.config
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\PrintCards\obj\Debug\PrintCards.exe
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\PrintCards\obj\Debug\PrintCards.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\PrintCards\bin\Debug\PrintCards.exe
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\PrintCards\bin\Debug\PrintCards.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\PrintCards\obj\Debug\11. PrintCards.csprojResolveAssemblyReference.cache

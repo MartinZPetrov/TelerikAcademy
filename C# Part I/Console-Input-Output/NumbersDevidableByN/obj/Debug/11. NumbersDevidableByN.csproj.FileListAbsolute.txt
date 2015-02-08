@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\bin\Debug\NumbersDevidableByN.exe.config
+E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\bin\Debug\NumbersDevidableByN.exe
+E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\bin\Debug\NumbersDevidableByN.pdb
+E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\obj\Debug\NumbersDevidableByN.exe
+E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\obj\Debug\NumbersDevidableByN.pdb

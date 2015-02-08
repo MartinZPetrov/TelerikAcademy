@@ -1,0 +1,1 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\MaxGreaterSequence\bin\Debug\MaxGreaterSequence.exe.config

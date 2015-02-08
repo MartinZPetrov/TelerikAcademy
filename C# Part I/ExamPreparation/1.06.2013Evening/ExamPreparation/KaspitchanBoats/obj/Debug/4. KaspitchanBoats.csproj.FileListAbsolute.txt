@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\KaspitchanBoats\bin\Debug\KaspitchanBoats.exe.config
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\KaspitchanBoats\bin\Debug\KaspitchanBoats.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\KaspitchanBoats\bin\Debug\KaspitchanBoats.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\KaspitchanBoats\obj\Debug\KaspitchanBoats.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\KaspitchanBoats\obj\Debug\KaspitchanBoats.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\KaspitchanBoats\obj\Debug\4. KaspitchanBoats.csprojResolveAssemblyReference.cache

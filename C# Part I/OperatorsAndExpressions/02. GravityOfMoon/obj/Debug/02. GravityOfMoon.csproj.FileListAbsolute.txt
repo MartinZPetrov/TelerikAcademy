@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\02. GravityOfMoon\bin\Debug\_02.GravityOfMoon.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\02. GravityOfMoon\bin\Debug\_02.GravityOfMoon.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\02. GravityOfMoon\bin\Debug\_02.GravityOfMoon.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\02. GravityOfMoon\obj\Debug\_02.GravityOfMoon.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\02. GravityOfMoon\obj\Debug\_02.GravityOfMoon.pdb

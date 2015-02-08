@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ModifyBitAtPos\bin\Debug\ModifyBitAtPos.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ModifyBitAtPos\bin\Debug\ModifyBitAtPos.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ModifyBitAtPos\bin\Debug\ModifyBitAtPos.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ModifyBitAtPos\obj\Debug\ModifyBitAtPos.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ModifyBitAtPos\obj\Debug\ModifyBitAtPos.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ModifyBitAtPos\obj\Debug\14. ModifyBitAtPos.csprojResolveAssemblyReference.cache

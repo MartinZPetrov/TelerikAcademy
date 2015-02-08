@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayVariations\bin\Debug\ArrayVariations.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayVariations\bin\Debug\ArrayVariations.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayVariations\bin\Debug\ArrayVariations.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayVariations\obj\Debug\20. ArrayVariations.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayVariations\obj\Debug\ArrayVariations.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\ArrayVariations\obj\Debug\ArrayVariations.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\ArrayVariations\bin\Debug\ArrayVariations.exe.config
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\ArrayVariations\obj\Debug\ArrayVariations.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\ArrayVariations\obj\Debug\ArrayVariations.pdb

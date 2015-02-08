@@ -1,0 +1,6 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ShowSign\bin\Debug\ShowSign.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ShowSign\bin\Debug\ShowSign.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ShowSign\bin\Debug\ShowSign.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ShowSign\obj\Debug\02. ShowSign.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ShowSign\obj\Debug\ShowSign.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Conditional-Statements\Conditional-Statements\Conditional-Statements\ShowSign\obj\Debug\ShowSign.pdb

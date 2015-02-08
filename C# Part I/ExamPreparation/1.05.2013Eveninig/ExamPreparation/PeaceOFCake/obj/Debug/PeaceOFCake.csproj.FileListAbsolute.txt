@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\PeaceOFCake\bin\Debug\PeaceOFCake.exe.config
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\PeaceOFCake\bin\Debug\PeaceOFCake.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\PeaceOFCake\bin\Debug\PeaceOFCake.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\PeaceOFCake\obj\Debug\PeaceOFCake.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\PeaceOFCake\obj\Debug\PeaceOFCake.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.05.2013Eveninig\ExamPreparation\PeaceOFCake\obj\Debug\PeaceOFCake.pdb

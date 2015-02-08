@@ -1,0 +1,6 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CirclePerimeterAndArea\obj\Debug\02. CirclePerimeterAndArea.csprojResolveAssemblyReference.cache

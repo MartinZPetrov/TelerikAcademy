@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReverseDigit\bin\Debug\ReverseDigit.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReverseDigit\bin\Debug\ReverseDigit.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReverseDigit\bin\Debug\ReverseDigit.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReverseDigit\obj\Debug\ReverseDigit.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReverseDigit\obj\Debug\ReverseDigit.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\ReverseDigit\obj\Debug\07. ReverseDigit.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# II\Methods\ReverseDigit\bin\Debug\ReverseDigit.exe.config
+E:\Telerik2nd\C# II\Methods\ReverseDigit\obj\Debug\ReverseDigit.exe
+E:\Telerik2nd\C# II\Methods\ReverseDigit\obj\Debug\ReverseDigit.pdb

@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\IntegerWihoutRemainder\bin\Debug\ConsoleApplication1.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\IntegerWihoutRemainder\bin\Debug\ConsoleApplication1.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\IntegerWihoutRemainder\bin\Debug\ConsoleApplication1.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\IntegerWihoutRemainder\obj\Debug\ConsoleApplication1.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\IntegerWihoutRemainder\obj\Debug\ConsoleApplication1.pdb

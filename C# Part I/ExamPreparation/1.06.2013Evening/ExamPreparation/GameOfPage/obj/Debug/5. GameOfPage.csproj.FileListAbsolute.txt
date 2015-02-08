@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\GameOfPage\bin\Debug\GameOfPage.exe.config
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\GameOfPage\bin\Debug\GameOfPage.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\GameOfPage\bin\Debug\GameOfPage.pdb
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\GameOfPage\obj\Debug\GameOfPage.exe
+E:\Telerik2nd\C# I\ExamPreparation\1.06.2013Evening\ExamPreparation\GameOfPage\obj\Debug\GameOfPage.pdb

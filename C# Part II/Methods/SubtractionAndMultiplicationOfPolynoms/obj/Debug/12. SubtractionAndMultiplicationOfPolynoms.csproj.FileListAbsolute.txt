@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\SubtractionAndMultiplicationOfPolynoms\bin\Debug\SubtractionAndMultiplicationOfPolynoms.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\SubtractionAndMultiplicationOfPolynoms\bin\Debug\SubtractionAndMultiplicationOfPolynoms.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\SubtractionAndMultiplicationOfPolynoms\bin\Debug\SubtractionAndMultiplicationOfPolynoms.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\SubtractionAndMultiplicationOfPolynoms\obj\Debug\SubtractionAndMultiplicationOfPolynoms.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\SubtractionAndMultiplicationOfPolynoms\obj\Debug\SubtractionAndMultiplicationOfPolynoms.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\SubtractionAndMultiplicationOfPolynoms\obj\Debug\12. SubtractionAndMultiplicationOfPolynoms.csprojResolveAssemblyReference.cache

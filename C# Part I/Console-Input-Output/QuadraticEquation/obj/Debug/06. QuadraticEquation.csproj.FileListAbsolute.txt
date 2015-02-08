@@ -1,0 +1,9 @@
+D:\Martin\TelerikC#\Console-Input-Output\QuadraticEquation\obj\Debug\06. QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Martin\TelerikC#\Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Martin\TelerikC#\Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Martin\TelerikC#\Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Martin\TelerikC#\Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Martin\TelerikC#\Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Loops\RandomizeNumbers\bin\Debug\RandomizeNumbers.exe.config
+E:\Telerik2nd\C# I\Loops\RandomizeNumbers\bin\Debug\RandomizeNumbers.exe
+E:\Telerik2nd\C# I\Loops\RandomizeNumbers\bin\Debug\RandomizeNumbers.pdb
+E:\Telerik2nd\C# I\Loops\RandomizeNumbers\obj\Debug\RandomizeNumbers.exe
+E:\Telerik2nd\C# I\Loops\RandomizeNumbers\obj\Debug\RandomizeNumbers.pdb

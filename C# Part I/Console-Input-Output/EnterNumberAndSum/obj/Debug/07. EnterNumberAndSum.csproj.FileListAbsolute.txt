@@ -1,0 +1,12 @@
+D:\Martin\TelerikC#\Console-Input-Output\EnterNumberAndSum\obj\Debug\07. EnterNumberAndSum.csprojResolveAssemblyReference.cache
+D:\Martin\TelerikC#\Console-Input-Output\EnterNumberAndSum\bin\Debug\EnterNumberAndSum.exe.config
+D:\Martin\TelerikC#\Console-Input-Output\EnterNumberAndSum\bin\Debug\EnterNumberAndSum.exe
+D:\Martin\TelerikC#\Console-Input-Output\EnterNumberAndSum\bin\Debug\EnterNumberAndSum.pdb
+D:\Martin\TelerikC#\Console-Input-Output\EnterNumberAndSum\obj\Debug\EnterNumberAndSum.exe
+D:\Martin\TelerikC#\Console-Input-Output\EnterNumberAndSum\obj\Debug\EnterNumberAndSum.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\EnterNumberAndSum\bin\Debug\EnterNumberAndSum.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\EnterNumberAndSum\obj\Debug\EnterNumberAndSum.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\EnterNumberAndSum\obj\Debug\EnterNumberAndSum.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\EnterNumberAndSum\bin\Debug\EnterNumberAndSum.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\EnterNumberAndSum\bin\Debug\EnterNumberAndSum.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\EnterNumberAndSum\obj\Debug\07. EnterNumberAndSum.csprojResolveAssemblyReference.cache

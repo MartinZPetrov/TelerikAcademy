@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CalculateRectangleArea\obj\Debug\CalculateRectangleArea.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CalculateRectangleArea\obj\Debug\04. CalculateRectangleArea.csprojResolveAssemblyReference.cache

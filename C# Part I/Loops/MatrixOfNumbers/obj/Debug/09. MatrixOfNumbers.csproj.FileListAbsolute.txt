@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+E:\Telerik2nd\C# I\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+E:\Telerik2nd\C# I\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+E:\Telerik2nd\C# I\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+E:\Telerik2nd\C# I\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

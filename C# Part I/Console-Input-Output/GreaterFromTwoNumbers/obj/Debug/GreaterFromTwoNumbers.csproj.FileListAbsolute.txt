@@ -1,0 +1,1 @@
+D:\Martin\TelerikC#\Console-Input-Output\GreaterFromTwoNumbers\bin\Debug\GreaterFromTwoNumbers.exe.config

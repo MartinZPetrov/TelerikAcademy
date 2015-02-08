@@ -1,0 +1,1 @@
+D:\Martin\TelerikC#\Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\CalculateRectangleArea\bin\Debug\CalculateRectangleArea.exe.config

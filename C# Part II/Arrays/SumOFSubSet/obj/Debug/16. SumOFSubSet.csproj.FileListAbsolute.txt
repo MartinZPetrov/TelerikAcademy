@@ -1,0 +1,8 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\SumOFSubSet\bin\Debug\SumOFSubSet.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\SumOFSubSet\bin\Debug\SumOFSubSet.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\SumOFSubSet\bin\Debug\SumOFSubSet.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\SumOFSubSet\obj\Debug\SumOFSubSet.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\SumOFSubSet\obj\Debug\SumOFSubSet.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SumOFSubSet\bin\Debug\SumOFSubSet.exe.config
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SumOFSubSet\obj\Debug\SumOFSubSet.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SumOFSubSet\obj\Debug\SumOFSubSet.pdb

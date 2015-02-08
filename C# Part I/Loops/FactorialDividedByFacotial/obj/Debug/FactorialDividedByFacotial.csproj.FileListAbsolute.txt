@@ -1,0 +1,1 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\FactorialDividedByFacotial\bin\Debug\FactorialDividedByFacotial.exe.config

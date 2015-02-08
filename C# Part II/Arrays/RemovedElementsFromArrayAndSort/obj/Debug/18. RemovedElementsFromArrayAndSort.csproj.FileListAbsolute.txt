@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\RemovedElementsFromArrayAndSort\bin\Debug\RemovedElementsFromArrayAndSort.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\RemovedElementsFromArrayAndSort\bin\Debug\RemovedElementsFromArrayAndSort.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\RemovedElementsFromArrayAndSort\bin\Debug\RemovedElementsFromArrayAndSort.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\RemovedElementsFromArrayAndSort\obj\Debug\RemovedElementsFromArrayAndSort.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\RemovedElementsFromArrayAndSort\obj\Debug\RemovedElementsFromArrayAndSort.pdb

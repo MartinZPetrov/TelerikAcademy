@@ -1,0 +1,12 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\FactorialDividedByFacotial\bin\Debug\FactorialDividedByFacotial.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\FactorialDividedByFacotial\bin\Debug\FactorialDividedByFacotial.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\FactorialDividedByFacotial\bin\Debug\FactorialDividedByFacotial.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\FactorialDividedByFacotial\obj\Debug\04. FactorialDividedByFacotial.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\FactorialDividedByFacotial\obj\Debug\FactorialDividedByFacotial.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Loops\Loops\Loops\FactorialDividedByFacotial\obj\Debug\FactorialDividedByFacotial.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\FactorialDividedByFacotial\bin\Debug\FactorialDividedByFacotial.exe.config
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\FactorialDividedByFacotial\obj\Debug\FactorialDividedByFacotial.exe
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\FactorialDividedByFacotial\obj\Debug\FactorialDividedByFacotial.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\FactorialDividedByFacotial\bin\Debug\FactorialDividedByFacotial.exe
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\FactorialDividedByFacotial\bin\Debug\FactorialDividedByFacotial.pdb
+C:\Users\Martin\Downloads\HW_MartinPetrov777_Cikli_2013-11-27_22-43\FactorialDividedByFacotial\obj\Debug\04. FactorialDividedByFacotial.csprojResolveAssemblyReference.cache

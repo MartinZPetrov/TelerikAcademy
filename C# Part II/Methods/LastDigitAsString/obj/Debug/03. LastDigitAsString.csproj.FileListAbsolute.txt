@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\LastDigitAsString\obj\Debug\03. LastDigitAsString.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Methods\Methods\Methods\LastDigitAsString\bin\Debug\LastDigitAsString.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\LastDigitAsString\bin\Debug\LastDigitAsString.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\LastDigitAsString\bin\Debug\LastDigitAsString.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\LastDigitAsString\obj\Debug\LastDigitAsString.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\LastDigitAsString\obj\Debug\LastDigitAsString.pdb
+E:\Telerik2nd\C# II\Methods\LastDigitAsString\bin\Debug\LastDigitAsString.exe.config
+E:\Telerik2nd\C# II\Methods\LastDigitAsString\obj\Debug\LastDigitAsString.exe
+E:\Telerik2nd\C# II\Methods\LastDigitAsString\obj\Debug\LastDigitAsString.pdb

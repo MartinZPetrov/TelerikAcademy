@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Loops\HexadecimaltoDecimal Number\bin\Debug\HexadecimaltoDecimal Number.exe.config
+E:\Telerik2nd\C# I\Loops\HexadecimaltoDecimal Number\bin\Debug\HexadecimaltoDecimal Number.exe
+E:\Telerik2nd\C# I\Loops\HexadecimaltoDecimal Number\bin\Debug\HexadecimaltoDecimal Number.pdb
+E:\Telerik2nd\C# I\Loops\HexadecimaltoDecimal Number\obj\Debug\HexadecimaltoDecimal Number.exe
+E:\Telerik2nd\C# I\Loops\HexadecimaltoDecimal Number\obj\Debug\HexadecimaltoDecimal Number.pdb

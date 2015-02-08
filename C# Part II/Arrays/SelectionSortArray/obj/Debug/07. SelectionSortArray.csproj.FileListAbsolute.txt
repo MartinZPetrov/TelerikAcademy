@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Arrays\Arrays\SelectionSortArray\bin\Debug\SelectionSortArray.exe.config
+E:\Telerik C#\Second Course\Arrays\Arrays\SelectionSortArray\bin\Debug\SelectionSortArray.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\SelectionSortArray\bin\Debug\SelectionSortArray.pdb
+E:\Telerik C#\Second Course\Arrays\Arrays\SelectionSortArray\obj\Debug\07. SelectionSortArray.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Arrays\Arrays\SelectionSortArray\obj\Debug\SelectionSortArray.exe
+E:\Telerik C#\Second Course\Arrays\Arrays\SelectionSortArray\obj\Debug\SelectionSortArray.pdb
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SelectionSortArray\bin\Debug\SelectionSortArray.exe.config
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SelectionSortArray\obj\Debug\SelectionSortArray.exe
+E:\Telerik2nd\C# II\HW_MartinPetrov777_Masivi_2013-12-22_21-51\Arrays\SelectionSortArray\obj\Debug\SelectionSortArray.pdb

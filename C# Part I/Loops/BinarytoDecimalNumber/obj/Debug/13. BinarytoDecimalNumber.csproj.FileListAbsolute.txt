@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\Loops\BinarytoDecimalNumber\bin\Debug\BinarytoDecimalNumber.exe.config
+E:\Telerik2nd\C# I\Loops\BinarytoDecimalNumber\bin\Debug\BinarytoDecimalNumber.exe
+E:\Telerik2nd\C# I\Loops\BinarytoDecimalNumber\bin\Debug\BinarytoDecimalNumber.pdb
+E:\Telerik2nd\C# I\Loops\BinarytoDecimalNumber\obj\Debug\BinarytoDecimalNumber.exe
+E:\Telerik2nd\C# I\Loops\BinarytoDecimalNumber\obj\Debug\BinarytoDecimalNumber.pdb

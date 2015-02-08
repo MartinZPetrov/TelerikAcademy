@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GenericMethod\bin\Debug\GenericMethod.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GenericMethod\bin\Debug\GenericMethod.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GenericMethod\bin\Debug\GenericMethod.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GenericMethod\obj\Debug\GenericMethod.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GenericMethod\obj\Debug\GenericMethod.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GenericMethod\obj\Debug\15. GenericMethod.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# II\Methods\GenericMethod\bin\Debug\GenericMethod.exe.config
+E:\Telerik2nd\C# II\Methods\GenericMethod\obj\Debug\GenericMethod.exe
+E:\Telerik2nd\C# II\Methods\GenericMethod\obj\Debug\GenericMethod.pdb

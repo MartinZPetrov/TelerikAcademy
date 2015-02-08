@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBitFromInt\bin\Debug\ExtractBitFromInt.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBitFromInt\bin\Debug\ExtractBitFromInt.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBitFromInt\bin\Debug\ExtractBitFromInt.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBitFromInt\obj\Debug\ExtractBitFromInt.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\ExtractBitFromInt\obj\Debug\ExtractBitFromInt.pdb

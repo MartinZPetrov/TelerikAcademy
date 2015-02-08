@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\Matrix\bin\Debug\Matrix.exe.config
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\Matrix\bin\Debug\Matrix.exe
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\Matrix\bin\Debug\Matrix.pdb
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\Matrix\obj\Debug\06. Matrix.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\Matrix\obj\Debug\Matrix.exe
+E:\Telerik C#\Second Course\Matrixes\Multidimensional-Arrays\Multidimensional-Arrays\Matrix\obj\Debug\Matrix.pdb
+E:\Telerik2nd\C# II\Multidimensional-Arrays\Matrix\bin\Debug\Matrix.exe.config
+E:\Telerik2nd\C# II\Multidimensional-Arrays\Matrix\obj\Debug\Matrix.exe
+E:\Telerik2nd\C# II\Multidimensional-Arrays\Matrix\obj\Debug\Matrix.pdb

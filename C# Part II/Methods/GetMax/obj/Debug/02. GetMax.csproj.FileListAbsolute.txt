@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GetMax\bin\Debug\GetMax.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GetMax\obj\Debug\02. GetMax.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GetMax\bin\Debug\GetMax.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GetMax\bin\Debug\GetMax.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GetMax\obj\Debug\GetMax.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\GetMax\obj\Debug\GetMax.pdb
+E:\Telerik2nd\C# II\Methods\GetMax\bin\Debug\GetMax.exe.config
+E:\Telerik2nd\C# II\Methods\GetMax\obj\Debug\GetMax.exe
+E:\Telerik2nd\C# II\Methods\GetMax\obj\Debug\GetMax.pdb

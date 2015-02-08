@@ -1,0 +1,6 @@
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CompanyInfo\bin\Debug\CompanyInfo.pdb
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CompanyInfo\obj\Debug\CompanyInfo.csprojResolveAssemblyReference.cache
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CompanyInfo\obj\Debug\CompanyInfo.exe
+E:\Telerik C#\First Course\Въведение в програмирането\Console-Input-Output\Console-Input-Output\Console-Input-Output\CompanyInfo\obj\Debug\CompanyInfo.pdb

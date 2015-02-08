@@ -1,0 +1,5 @@
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.exe.config
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfDigitEqulasSeven\obj\Debug\CheckIfDigitEqulasSeven.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfDigitEqulasSeven\obj\Debug\CheckIfDigitEqulasSeven.pdb
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.exe
+E:\Telerik2nd\C# I\OperatorsAndExpressions\CheckIfDigitEqulasSeven\bin\Debug\CheckIfDigitEqulasSeven.pdb

@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Methods\Methods\Methods\NumberOccuraneInArray\bin\Debug\NumberOccuraneInArray.exe.config
+E:\Telerik C#\Second Course\Methods\Methods\Methods\NumberOccuraneInArray\bin\Debug\NumberOccuraneInArray.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\NumberOccuraneInArray\bin\Debug\NumberOccuraneInArray.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\NumberOccuraneInArray\obj\Debug\NumberOccuraneInArray.exe
+E:\Telerik C#\Second Course\Methods\Methods\Methods\NumberOccuraneInArray\obj\Debug\NumberOccuraneInArray.pdb
+E:\Telerik C#\Second Course\Methods\Methods\Methods\NumberOccuraneInArray\obj\Debug\04. NumberOccuraneInArray.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# II\Methods\NumberOccuraneInArray\bin\Debug\NumberOccuraneInArray.exe.config
+E:\Telerik2nd\C# II\Methods\NumberOccuraneInArray\obj\Debug\NumberOccuraneInArray.exe
+E:\Telerik2nd\C# II\Methods\NumberOccuraneInArray\obj\Debug\NumberOccuraneInArray.pdb

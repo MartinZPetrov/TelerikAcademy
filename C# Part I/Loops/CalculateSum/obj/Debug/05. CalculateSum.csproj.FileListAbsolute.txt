@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\Loops\CalculateSum\bin\Debug\CalculateSum.exe.config
+E:\Telerik2nd\C# I\Loops\CalculateSum\bin\Debug\CalculateSum.exe
+E:\Telerik2nd\C# I\Loops\CalculateSum\bin\Debug\CalculateSum.pdb
+E:\Telerik2nd\C# I\Loops\CalculateSum\obj\Debug\05. CalculateSum.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# I\Loops\CalculateSum\obj\Debug\CalculateSum.exe
+E:\Telerik2nd\C# I\Loops\CalculateSum\obj\Debug\CalculateSum.pdb
