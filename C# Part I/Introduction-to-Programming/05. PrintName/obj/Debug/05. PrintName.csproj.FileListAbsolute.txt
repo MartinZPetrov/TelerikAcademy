@@ -1,0 +1,6 @@
+E:\Telerik2nd\C# I\Introduction-to-Programming\5. PrintNamq\bin\Debug\_5.PrintNamq.exe.config
+E:\Telerik2nd\C# I\Introduction-to-Programming\5. PrintNamq\obj\Debug\_5.PrintNamq.exe
+E:\Telerik2nd\C# I\Introduction-to-Programming\5. PrintNamq\obj\Debug\_5.PrintNamq.pdb
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\05. PrintName\bin\Debug\_5.PrintNamq.exe.config
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\05. PrintName\obj\Debug\_5.PrintNamq.exe
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Introduction-to-Programming\05. PrintName\obj\Debug\_5.PrintNamq.pdb
