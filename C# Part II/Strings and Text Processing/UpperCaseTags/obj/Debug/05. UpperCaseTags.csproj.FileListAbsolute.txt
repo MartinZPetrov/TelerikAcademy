@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\UpperCaseTags\bin\Debug\UpperCaseTags.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\UpperCaseTags\bin\Debug\UpperCaseTags.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\UpperCaseTags\bin\Debug\UpperCaseTags.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\UpperCaseTags\obj\Debug\05. UpperCaseTags.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\UpperCaseTags\obj\Debug\UpperCaseTags.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\UpperCaseTags\obj\Debug\UpperCaseTags.pdb

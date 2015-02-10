@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\CheckExpression\bin\Debug\CheckExpression.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\CheckExpression\bin\Debug\CheckExpression.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\CheckExpression\bin\Debug\CheckExpression.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\CheckExpression\obj\Debug\CheckExpression.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\CheckExpression\obj\Debug\CheckExpression.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\CheckExpression\obj\Debug\03. CheckExpression.csprojResolveAssemblyReference.cache

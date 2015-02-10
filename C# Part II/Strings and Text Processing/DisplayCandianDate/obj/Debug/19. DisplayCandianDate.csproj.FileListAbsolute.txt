@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DisplayCandianDate\bin\Debug\DisplayCandianDate.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DisplayCandianDate\bin\Debug\DisplayCandianDate.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DisplayCandianDate\bin\Debug\DisplayCandianDate.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DisplayCandianDate\obj\Debug\DisplayCandianDate.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DisplayCandianDate\obj\Debug\DisplayCandianDate.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DisplayCandianDate\obj\Debug\19. DisplayCandianDate.csprojResolveAssemblyReference.cache

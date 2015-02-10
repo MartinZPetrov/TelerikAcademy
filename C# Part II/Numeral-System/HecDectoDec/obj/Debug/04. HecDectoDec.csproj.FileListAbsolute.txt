@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\HecDectoDec\bin\Debug\HecDectoDec.exe.config
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\HecDectoDec\bin\Debug\HecDectoDec.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\HecDectoDec\bin\Debug\HecDectoDec.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\HecDectoDec\obj\Debug\HecDectoDec.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\HecDectoDec\obj\Debug\HecDectoDec.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\HecDectoDec\obj\Debug\04. HecDectoDec.csprojResolveAssemblyReference.cache

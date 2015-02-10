@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\HandlePossibleExecptions\bin\Debug\HandlePossibleExecptions.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\HandlePossibleExecptions\bin\Debug\HandlePossibleExecptions.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\HandlePossibleExecptions\bin\Debug\HandlePossibleExecptions.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\HandlePossibleExecptions\obj\Debug\HandlePossibleExecptions.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\HandlePossibleExecptions\obj\Debug\HandlePossibleExecptions.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\HandlePossibleExecptions\obj\Debug\12. HandlePossibleExecptions.csprojResolveAssemblyReference.cache

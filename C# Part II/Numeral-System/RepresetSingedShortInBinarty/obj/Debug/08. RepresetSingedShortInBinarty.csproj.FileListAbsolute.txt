@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\RepresetSingedShortInBinarty\bin\Debug\RepresetSingedShortInBinarty.exe.config
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\RepresetSingedShortInBinarty\bin\Debug\RepresetSingedShortInBinarty.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\RepresetSingedShortInBinarty\bin\Debug\RepresetSingedShortInBinarty.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\RepresetSingedShortInBinarty\obj\Debug\RepresetSingedShortInBinarty.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\RepresetSingedShortInBinarty\obj\Debug\RepresetSingedShortInBinarty.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\RepresetSingedShortInBinarty\obj\Debug\08. RepresetSingedShortInBinarty.csprojResolveAssemblyReference.cache

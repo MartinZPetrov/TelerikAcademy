@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ForbiddenStrings\bin\Debug\ForbiddenStrings.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ForbiddenStrings\bin\Debug\ForbiddenStrings.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ForbiddenStrings\bin\Debug\ForbiddenStrings.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ForbiddenStrings\obj\Debug\09. ForbiddenStrings.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ForbiddenStrings\obj\Debug\ForbiddenStrings.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ForbiddenStrings\obj\Debug\ForbiddenStrings.pdb

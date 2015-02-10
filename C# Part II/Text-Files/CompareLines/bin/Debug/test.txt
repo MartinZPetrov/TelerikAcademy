@@ -1,0 +1,4 @@
+Hello This just a test.
+Only for learning purposes.
+So I will write nonsense.
+This Encdoing is ASCII.

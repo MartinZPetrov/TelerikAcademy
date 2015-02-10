@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ListOfDifferentWords\bin\Debug\ListOfDifferentWords.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ListOfDifferentWords\bin\Debug\ListOfDifferentWords.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ListOfDifferentWords\bin\Debug\ListOfDifferentWords.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ListOfDifferentWords\obj\Debug\ListOfDifferentWords.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ListOfDifferentWords\obj\Debug\ListOfDifferentWords.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ListOfDifferentWords\obj\Debug\22. ListOfDifferentWords.csprojResolveAssemblyReference.cache

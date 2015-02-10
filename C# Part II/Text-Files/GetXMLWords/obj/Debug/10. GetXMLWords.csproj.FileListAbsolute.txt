@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\GetXMLWords\bin\Debug\GetXMLWords.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\GetXMLWords\obj\Debug\10. GetXMLWords.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\GetXMLWords\bin\Debug\GetXMLWords.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\GetXMLWords\bin\Debug\GetXMLWords.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\GetXMLWords\obj\Debug\GetXMLWords.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\GetXMLWords\obj\Debug\GetXMLWords.pdb

@@ -3,3 +3,6 @@ E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\bin\Debug\NumbersDev
 E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\bin\Debug\NumbersDevidableByN.pdb
 E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\obj\Debug\NumbersDevidableByN.exe
 E:\Telerik2nd\C# I\Console-Input-Output\NumbersDevidableByN\obj\Debug\NumbersDevidableByN.pdb
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Console-Input-Output\NumbersDevidableByN\bin\Debug\NumbersDevidableByN.exe.config
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Console-Input-Output\NumbersDevidableByN\obj\Debug\NumbersDevidableByN.exe
+D:\GitHub\TelerikAcademy\TelerikAcademy\C# Part I\Console-Input-Output\NumbersDevidableByN\obj\Debug\NumbersDevidableByN.pdb

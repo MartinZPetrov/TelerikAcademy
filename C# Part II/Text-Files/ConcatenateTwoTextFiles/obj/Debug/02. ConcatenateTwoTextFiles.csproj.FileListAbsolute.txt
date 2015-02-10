@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ConcatenateTwoTextFiles\obj\Debug\02. ConcatenateTwoTextFiles.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.pdb

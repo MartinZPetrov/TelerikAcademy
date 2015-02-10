@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\ReadNumber\obj\Debug\02. ReadNumber.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\ReadNumber\bin\Debug\ReadNumber.exe.config
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\ReadNumber\bin\Debug\ReadNumber.exe
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\ReadNumber\bin\Debug\ReadNumber.pdb
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\ReadNumber\obj\Debug\ReadNumber.exe
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\ReadNumber\obj\Debug\ReadNumber.pdb

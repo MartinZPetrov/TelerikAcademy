@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\PrintSquare\obj\Debug\01. PrintSquare.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\PrintSquare\bin\Debug\PrintSquare.exe.config
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\PrintSquare\bin\Debug\PrintSquare.exe
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\PrintSquare\bin\Debug\PrintSquare.pdb
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\PrintSquare\obj\Debug\PrintSquare.exe
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\PrintSquare\obj\Debug\PrintSquare.pdb
+E:\Telerik2nd\C# II\Exception-Handling\PrintSquare\bin\Debug\PrintSquare.exe.config
+E:\Telerik2nd\C# II\Exception-Handling\PrintSquare\obj\Debug\PrintSquare.exe
+E:\Telerik2nd\C# II\Exception-Handling\PrintSquare\obj\Debug\PrintSquare.pdb

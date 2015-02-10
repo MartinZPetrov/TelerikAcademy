@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToDec\bin\Debug\BinToDec.exe.config
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToDec\bin\Debug\BinToDec.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToDec\bin\Debug\BinToDec.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToDec\obj\Debug\BinToDec.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToDec\obj\Debug\BinToDec.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToDec\obj\Debug\BinToDec.csprojResolveAssemblyReference.cache

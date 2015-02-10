@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReplaceWholeWord\bin\Debug\ReplaceWholeWord.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReplaceWholeWord\obj\Debug\08. ReplaceWholeWord.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReplaceWholeWord\bin\Debug\ReplaceWholeWord.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReplaceWholeWord\bin\Debug\ReplaceWholeWord.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReplaceWholeWord\obj\Debug\ReplaceWholeWord.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReplaceWholeWord\obj\Debug\ReplaceWholeWord.pdb

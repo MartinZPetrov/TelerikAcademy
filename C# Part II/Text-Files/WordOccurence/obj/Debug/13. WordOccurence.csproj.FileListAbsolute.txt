@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\WordOccurence\bin\Debug\WordOccurence.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\WordOccurence\bin\Debug\WordOccurence.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\WordOccurence\bin\Debug\WordOccurence.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\WordOccurence\obj\Debug\WordOccurence.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\WordOccurence\obj\Debug\WordOccurence.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\WordOccurence\obj\Debug\13. WordOccurence.csprojResolveAssemblyReference.cache

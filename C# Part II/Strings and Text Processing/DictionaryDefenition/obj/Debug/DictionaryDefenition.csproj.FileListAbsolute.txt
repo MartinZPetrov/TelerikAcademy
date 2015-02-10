@@ -1,0 +1,1 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DictionaryDefenition\bin\Debug\DictionaryDefenition.exe.config

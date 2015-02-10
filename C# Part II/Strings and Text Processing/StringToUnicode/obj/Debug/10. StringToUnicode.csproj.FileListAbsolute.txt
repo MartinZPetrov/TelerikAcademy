@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\StringToUnicode\bin\Debug\StringToUnicode.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\StringToUnicode\bin\Debug\StringToUnicode.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\StringToUnicode\bin\Debug\StringToUnicode.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\StringToUnicode\obj\Debug\10. StringToUnicode.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\StringToUnicode\obj\Debug\StringToUnicode.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\StringToUnicode\obj\Debug\StringToUnicode.pdb

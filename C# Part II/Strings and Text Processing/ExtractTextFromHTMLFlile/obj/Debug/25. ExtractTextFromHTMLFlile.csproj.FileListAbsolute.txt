@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ExtractTextFromHTMLFlile\bin\Debug\ExtractTextFromHTMLFlile.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ExtractTextFromHTMLFlile\bin\Debug\ExtractTextFromHTMLFlile.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ExtractTextFromHTMLFlile\bin\Debug\ExtractTextFromHTMLFlile.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ExtractTextFromHTMLFlile\obj\Debug\ExtractTextFromHTMLFlile.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ExtractTextFromHTMLFlile\obj\Debug\ExtractTextFromHTMLFlile.pdb

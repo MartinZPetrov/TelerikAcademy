@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ReadDaysBetween\bin\Debug\ReadDaysBetween.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ReadDaysBetween\bin\Debug\ReadDaysBetween.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ReadDaysBetween\bin\Debug\ReadDaysBetween.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ReadDaysBetween\obj\Debug\ReadDaysBetween.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\ReadDaysBetween\obj\Debug\ReadDaysBetween.pdb

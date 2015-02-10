@@ -1,0 +1,1 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\StringToUnicode\bin\Debug\StringToUnicode.exe.config

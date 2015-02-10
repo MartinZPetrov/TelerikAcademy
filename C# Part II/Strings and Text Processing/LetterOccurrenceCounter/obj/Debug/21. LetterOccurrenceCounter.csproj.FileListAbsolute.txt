@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\LetterOccurrenceCounter\bin\Debug\LetterOccurrenceCounter.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\LetterOccurrenceCounter\bin\Debug\LetterOccurrenceCounter.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\LetterOccurrenceCounter\bin\Debug\LetterOccurrenceCounter.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\LetterOccurrenceCounter\obj\Debug\LetterOccurrenceCounter.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\LetterOccurrenceCounter\obj\Debug\LetterOccurrenceCounter.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\LetterOccurrenceCounter\obj\Debug\21. LetterOccurrenceCounter.csprojResolveAssemblyReference.cache

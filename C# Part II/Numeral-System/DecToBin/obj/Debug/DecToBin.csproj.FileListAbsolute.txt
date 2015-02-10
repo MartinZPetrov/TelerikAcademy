@@ -1,0 +1,1 @@
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\DecToBin\bin\Debug\DecToBin.exe.config

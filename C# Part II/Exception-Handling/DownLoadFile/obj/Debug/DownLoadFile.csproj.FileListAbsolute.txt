@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\DownLoadFile\bin\Debug\DownLoadFile.exe.config
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\DownLoadFile\bin\Debug\DownLoadFile.exe
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\DownLoadFile\bin\Debug\DownLoadFile.pdb
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\DownLoadFile\obj\Debug\DownLoadFile.exe
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\DownLoadFile\obj\Debug\DownLoadFile.pdb
+E:\Telerik C#\Second Course\Exception-Handling\Exception-Handling\Exception-Handling\DownLoadFile\obj\Debug\DownLoadFile.csprojResolveAssemblyReference.cache

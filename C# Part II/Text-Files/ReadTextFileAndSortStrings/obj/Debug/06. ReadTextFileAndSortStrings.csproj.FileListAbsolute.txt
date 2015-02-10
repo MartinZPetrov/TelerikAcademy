@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadTextFileAndSortStrings\bin\Debug\ReadTextFileAndSortStrings.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadTextFileAndSortStrings\obj\Debug\06. ReadTextFileAndSortStrings.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadTextFileAndSortStrings\bin\Debug\ReadTextFileAndSortStrings.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadTextFileAndSortStrings\bin\Debug\ReadTextFileAndSortStrings.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadTextFileAndSortStrings\obj\Debug\ReadTextFileAndSortStrings.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadTextFileAndSortStrings\obj\Debug\ReadTextFileAndSortStrings.pdb

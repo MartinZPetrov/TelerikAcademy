@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\SubstringCounter\bin\Debug\SubstringCounter.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\SubstringCounter\bin\Debug\SubstringCounter.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\SubstringCounter\bin\Debug\SubstringCounter.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\SubstringCounter\obj\Debug\SubstringCounter.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\SubstringCounter\obj\Debug\SubstringCounter.pdb

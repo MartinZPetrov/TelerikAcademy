@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadOddLinesFromTextFile\bin\Debug\ReadOddLinesFromTextFile.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadOddLinesFromTextFile\obj\Debug\ReadOddLinesFromTextFile.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadOddLinesFromTextFile\bin\Debug\ReadOddLinesFromTextFile.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadOddLinesFromTextFile\bin\Debug\ReadOddLinesFromTextFile.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadOddLinesFromTextFile\obj\Debug\ReadOddLinesFromTextFile.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadOddLinesFromTextFile\obj\Debug\ReadOddLinesFromTextFile.pdb

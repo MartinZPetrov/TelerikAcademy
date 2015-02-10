@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\DeleteForbbidenSymbols\bin\Debug\DeleteForbbidenSymbols.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\DeleteForbbidenSymbols\bin\Debug\DeleteForbbidenSymbols.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\DeleteForbbidenSymbols\bin\Debug\DeleteForbbidenSymbols.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\DeleteForbbidenSymbols\obj\Debug\11. DeleteForbbidenSymbols.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\DeleteForbbidenSymbols\obj\Debug\DeleteForbbidenSymbols.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\DeleteForbbidenSymbols\obj\Debug\DeleteForbbidenSymbols.pdb

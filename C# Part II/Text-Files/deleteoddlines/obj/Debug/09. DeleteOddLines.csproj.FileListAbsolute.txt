@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\deleteoddlines\bin\Debug\deleteoddlines.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\deleteoddlines\obj\Debug\deleteoddlines.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\deleteoddlines\obj\Debug\deleteoddlines.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\deleteoddlines\obj\Debug\09. DeleteOddLines.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\deleteoddlines\bin\Debug\deleteoddlines.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\deleteoddlines\bin\Debug\deleteoddlines.pdb

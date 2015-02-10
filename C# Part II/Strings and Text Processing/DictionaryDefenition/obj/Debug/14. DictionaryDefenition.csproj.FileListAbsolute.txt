@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DictionaryDefenition\bin\Debug\DictionaryDefenition.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DictionaryDefenition\bin\Debug\DictionaryDefenition.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DictionaryDefenition\bin\Debug\DictionaryDefenition.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DictionaryDefenition\obj\Debug\DictionaryDefenition.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DictionaryDefenition\obj\Debug\DictionaryDefenition.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DictionaryDefenition\obj\Debug\14. DictionaryDefenition.csprojResolveAssemblyReference.cache

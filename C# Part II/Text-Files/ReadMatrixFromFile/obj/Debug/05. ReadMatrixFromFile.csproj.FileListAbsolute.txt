@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadMatrixFromFile\bin\Debug\ReadMatrixFromFile.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadMatrixFromFile\bin\Debug\ReadMatrixFromFile.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadMatrixFromFile\bin\Debug\ReadMatrixFromFile.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadMatrixFromFile\obj\Debug\ReadMatrixFromFile.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\ReadMatrixFromFile\obj\Debug\ReadMatrixFromFile.pdb

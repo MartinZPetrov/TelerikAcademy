@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateSumOFDigitsInString\obj\Debug\06. CalculateSumOFDigitsInString.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateSumOFDigitsInString\bin\Debug\CalculateSumOFDigitsInString.exe.config
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateSumOFDigitsInString\bin\Debug\CalculateSumOFDigitsInString.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateSumOFDigitsInString\bin\Debug\CalculateSumOFDigitsInString.pdb
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateSumOFDigitsInString\obj\Debug\CalculateSumOFDigitsInString.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateSumOFDigitsInString\obj\Debug\CalculateSumOFDigitsInString.pdb

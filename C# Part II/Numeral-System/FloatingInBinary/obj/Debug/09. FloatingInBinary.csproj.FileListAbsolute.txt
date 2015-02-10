@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FloatingInBinary\bin\Debug\FloatingInBinary.exe.config
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FloatingInBinary\bin\Debug\FloatingInBinary.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FloatingInBinary\bin\Debug\FloatingInBinary.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FloatingInBinary\obj\Debug\09. FloatingInBinary.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FloatingInBinary\obj\Debug\FloatingInBinary.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FloatingInBinary\obj\Debug\FloatingInBinary.pdb

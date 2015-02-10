@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DescribeStringClass\obj\Debug\01. DescribeStringClass.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DescribeStringClass\bin\Debug\DescribeStringClass.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DescribeStringClass\bin\Debug\DescribeStringClass.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DescribeStringClass\bin\Debug\DescribeStringClass.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DescribeStringClass\obj\Debug\DescribeStringClass.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DescribeStringClass\obj\Debug\DescribeStringClass.pdb
+E:\Telerik2nd\C# II\Strings and Text Processing\DescribeStringClass\bin\Debug\DescribeStringClass.exe.config
+E:\Telerik2nd\C# II\Strings and Text Processing\DescribeStringClass\obj\Debug\DescribeStringClass.exe
+E:\Telerik2nd\C# II\Strings and Text Processing\DescribeStringClass\obj\Debug\DescribeStringClass.pdb

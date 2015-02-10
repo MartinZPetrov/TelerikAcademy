@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Print20Chars\bin\Debug\Print20Chars.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Print20Chars\bin\Debug\Print20Chars.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Print20Chars\bin\Debug\Print20Chars.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Print20Chars\obj\Debug\Print20Chars.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Print20Chars\obj\Debug\Print20Chars.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Print20Chars\obj\Debug\06. Print20Chars.csprojResolveAssemblyReference.cache

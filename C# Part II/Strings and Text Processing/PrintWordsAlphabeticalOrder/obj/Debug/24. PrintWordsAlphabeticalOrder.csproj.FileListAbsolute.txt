@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PrintWordsAlphabeticalOrder\bin\Debug\PrintWordsAlphabeticalOrder.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PrintWordsAlphabeticalOrder\bin\Debug\PrintWordsAlphabeticalOrder.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PrintWordsAlphabeticalOrder\bin\Debug\PrintWordsAlphabeticalOrder.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PrintWordsAlphabeticalOrder\obj\Debug\PrintWordsAlphabeticalOrder.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PrintWordsAlphabeticalOrder\obj\Debug\PrintWordsAlphabeticalOrder.pdb

@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateWorkingDays\bin\Debug\CalculateWorkingDays.exe.config
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateWorkingDays\bin\Debug\CalculateWorkingDays.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateWorkingDays\bin\Debug\CalculateWorkingDays.pdb
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateWorkingDays\obj\Debug\05. CalculateWorkingDays.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateWorkingDays\obj\Debug\CalculateWorkingDays.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateWorkingDays\obj\Debug\CalculateWorkingDays.pdb

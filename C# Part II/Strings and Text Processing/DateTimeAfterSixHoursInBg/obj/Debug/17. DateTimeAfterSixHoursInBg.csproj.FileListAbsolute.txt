@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DateTimeAfterSixHoursInBg\bin\Debug\DateTimeAfterSixHoursInBg.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DateTimeAfterSixHoursInBg\bin\Debug\DateTimeAfterSixHoursInBg.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DateTimeAfterSixHoursInBg\bin\Debug\DateTimeAfterSixHoursInBg.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DateTimeAfterSixHoursInBg\obj\Debug\DateTimeAfterSixHoursInBg.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\DateTimeAfterSixHoursInBg\obj\Debug\DateTimeAfterSixHoursInBg.pdb

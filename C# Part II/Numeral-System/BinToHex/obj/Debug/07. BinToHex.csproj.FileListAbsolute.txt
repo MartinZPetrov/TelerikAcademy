@@ -1,0 +1,3 @@
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToHex\bin\Debug\BinToHex.exe.config
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToHex\obj\Debug\BinToHex.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\BinToHex\obj\Debug\BinToHex.pdb

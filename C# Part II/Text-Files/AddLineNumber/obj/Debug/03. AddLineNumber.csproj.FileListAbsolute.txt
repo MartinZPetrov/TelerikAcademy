@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\AddLineNumber\bin\Debug\AddLineNumber.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\AddLineNumber\obj\Debug\03. AddLineNumber.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\AddLineNumber\bin\Debug\AddLineNumber.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\AddLineNumber\bin\Debug\AddLineNumber.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\AddLineNumber\obj\Debug\AddLineNumber.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\AddLineNumber\obj\Debug\AddLineNumber.pdb

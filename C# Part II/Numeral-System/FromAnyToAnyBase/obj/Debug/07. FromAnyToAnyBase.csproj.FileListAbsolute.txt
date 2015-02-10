@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FromAnyToAnyBase\bin\Debug\FromAnyToAnyBase.exe.config
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FromAnyToAnyBase\bin\Debug\FromAnyToAnyBase.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FromAnyToAnyBase\bin\Debug\FromAnyToAnyBase.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FromAnyToAnyBase\obj\Debug\07. FromAnyToAnyBase.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FromAnyToAnyBase\obj\Debug\FromAnyToAnyBase.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\FromAnyToAnyBase\obj\Debug\FromAnyToAnyBase.pdb

@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Crypt\bin\Debug\Crypt.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Crypt\bin\Debug\Crypt.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Crypt\bin\Debug\Crypt.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Crypt\obj\Debug\07. EncryptAndDecrypt.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Crypt\obj\Debug\Crypt.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\Crypt\obj\Debug\Crypt.pdb

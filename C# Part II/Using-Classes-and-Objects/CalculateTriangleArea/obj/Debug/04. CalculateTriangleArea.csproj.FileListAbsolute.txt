@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateTriangleArea\obj\Debug\04. CalculateTriangleArea.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

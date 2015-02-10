@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\CompareLines\bin\Debug\CompareLines.exe.config
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\CompareLines\bin\Debug\CompareLines.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\CompareLines\bin\Debug\CompareLines.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\CompareLines\obj\Debug\CompareLines.exe
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\CompareLines\obj\Debug\CompareLines.pdb
+E:\Telerik C#\Second Course\Text-Files\Text-Files\Text-Files\CompareLines\obj\Debug\04. CompareLines.csprojResolveAssemblyReference.cache

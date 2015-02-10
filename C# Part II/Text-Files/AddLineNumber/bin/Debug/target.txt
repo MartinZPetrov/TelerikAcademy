@@ -1,0 +1,4 @@
+Line1: Hello This just a test.
+Line2: Only for learning purposes.
+Line3: So I will write nonsense.
+Line4: This Encdoing is ASCII.

@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\EmailAddressExtactor\bin\Debug\EmailAddressExtactor.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\EmailAddressExtactor\bin\Debug\EmailAddressExtactor.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\EmailAddressExtactor\bin\Debug\EmailAddressExtactor.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\EmailAddressExtactor\obj\Debug\EmailAddressExtactor.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\EmailAddressExtactor\obj\Debug\EmailAddressExtactor.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\EmailAddressExtactor\obj\Debug\18. EmailAddressExtactor.csprojResolveAssemblyReference.cache

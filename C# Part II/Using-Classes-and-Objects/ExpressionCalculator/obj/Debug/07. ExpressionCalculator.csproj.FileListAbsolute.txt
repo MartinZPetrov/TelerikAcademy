@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\ExpressionCalculator\bin\Debug\ExpressionCalculator.exe.config
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\ExpressionCalculator\bin\Debug\ExpressionCalculator.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\ExpressionCalculator\bin\Debug\ExpressionCalculator.pdb
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\ExpressionCalculator\obj\Debug\07. ExpressionCalculator.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\ExpressionCalculator\obj\Debug\ExpressionCalculator.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\ExpressionCalculator\obj\Debug\ExpressionCalculator.pdb

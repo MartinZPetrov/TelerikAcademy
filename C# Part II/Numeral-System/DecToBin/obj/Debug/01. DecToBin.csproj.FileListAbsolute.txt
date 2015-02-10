@@ -1,0 +1,9 @@
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\DecToBin\obj\Debug\01. DecToBin.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\DecToBin\bin\Debug\DecToBin.exe.config
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\DecToBin\bin\Debug\DecToBin.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\DecToBin\bin\Debug\DecToBin.pdb
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\DecToBin\obj\Debug\DecToBin.exe
+E:\Telerik C#\Second Course\Numeral-Systems\Numeral-Systems\DecToBin\obj\Debug\DecToBin.pdb
+E:\Telerik2nd\C# II\Numeral-System\DecToBin\bin\Debug\DecToBin.exe.config
+E:\Telerik2nd\C# II\Numeral-System\DecToBin\obj\Debug\DecToBin.exe
+E:\Telerik2nd\C# II\Numeral-System\DecToBin\obj\Debug\DecToBin.pdb

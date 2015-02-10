@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\HTMLFileReplacer\obj\Debug\15. HTMLFileReplacer.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\HTMLFileReplacer\bin\Debug\HTMLFileReplacer.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\HTMLFileReplacer\bin\Debug\HTMLFileReplacer.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\HTMLFileReplacer\bin\Debug\HTMLFileReplacer.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\HTMLFileReplacer\obj\Debug\HTMLFileReplacer.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\HTMLFileReplacer\obj\Debug\HTMLFileReplacer.pdb

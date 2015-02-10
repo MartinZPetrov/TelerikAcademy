@@ -1,0 +1,5 @@
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\DayofWeek\bin\Debug\DayofWeek.exe.config
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\DayofWeek\bin\Debug\DayofWeek.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\DayofWeek\bin\Debug\DayofWeek.pdb
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\DayofWeek\obj\Debug\DayofWeek.exe
+E:\Telerik C#\Second Course\Using-Classes-and-Objects\Using-Classes-and-Objects\Using-Classes-and-Objects\DayofWeek\obj\Debug\DayofWeek.pdb

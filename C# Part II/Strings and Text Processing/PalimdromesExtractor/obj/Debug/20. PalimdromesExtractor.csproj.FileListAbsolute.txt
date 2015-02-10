@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PalimdromesExtractor\bin\Debug\PalimdromesExtractor.exe.config
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PalimdromesExtractor\bin\Debug\PalimdromesExtractor.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PalimdromesExtractor\bin\Debug\PalimdromesExtractor.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PalimdromesExtractor\obj\Debug\PalimdromesExtractor.exe
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PalimdromesExtractor\obj\Debug\PalimdromesExtractor.pdb
+E:\Telerik C#\Second Course\Strings-and-Text-Processing\Strings-and-Text-Processing\PalimdromesExtractor\obj\Debug\20. PalimdromesExtractor.csprojResolveAssemblyReference.cache
