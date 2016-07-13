@@ -1,0 +1,1 @@
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task19\bin\Debug\Task19.exe.config

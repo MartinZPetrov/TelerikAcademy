@@ -1,0 +1,6 @@
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task08\bin\Debug\Task08.exe.config
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task08\bin\Debug\Task08.exe
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task08\bin\Debug\Task08.pdb
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task08\obj\Debug\Task08.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task08\obj\Debug\Task08.exe
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task08\obj\Debug\Task08.pdb

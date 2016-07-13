@@ -1,0 +1,6 @@
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Tak07\bin\Debug\Tak07.exe.config
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Tak07\bin\Debug\Tak07.exe
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Tak07\bin\Debug\Tak07.pdb
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Tak07\obj\Debug\Task07.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Tak07\obj\Debug\Tak07.exe
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Tak07\obj\Debug\Tak07.pdb

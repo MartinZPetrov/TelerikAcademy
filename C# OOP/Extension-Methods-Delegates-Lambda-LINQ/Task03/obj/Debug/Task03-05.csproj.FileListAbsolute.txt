@@ -1,0 +1,5 @@
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task03\bin\Debug\Task03.exe.config
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task03\bin\Debug\Task03.exe
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task03\bin\Debug\Task03.pdb
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task03\obj\Debug\Task03.exe
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Task03\obj\Debug\Task03.pdb

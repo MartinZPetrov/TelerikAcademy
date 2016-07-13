@@ -1,0 +1,1 @@
+E:\Telerik2nd\C OOP\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe.config

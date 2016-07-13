@@ -1,0 +1,15 @@
+E:\Telerik2nd\C# II\ExamPreparation\DefiningClassesPart1\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+E:\Telerik2nd\C# II\ExamPreparation\DefiningClassesPart1\DefiningClasses\obj\Debug\DefiningClasses.csprojResolveAssemblyReference.cache
+E:\Telerik2nd\C# II\ExamPreparation\DefiningClassesPart1\DefiningClasses\bin\Debug\DefiningClasses.exe
+E:\Telerik2nd\C# II\ExamPreparation\DefiningClassesPart1\DefiningClasses\bin\Debug\DefiningClasses.pdb
+E:\Telerik2nd\C# II\ExamPreparation\DefiningClassesPart1\DefiningClasses\obj\Debug\DefiningClasses.exe
+E:\Telerik2nd\C# II\ExamPreparation\DefiningClassesPart1\DefiningClasses\obj\Debug\DefiningClasses.pdb
+E:\Telerik2nd\C OOP\DefiningClassesPart1\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+E:\Telerik2nd\C OOP\DefiningClassesPart1\DefiningClasses\obj\Debug\DefiningClasses.exe
+E:\Telerik2nd\C OOP\DefiningClassesPart1\DefiningClasses\obj\Debug\DefiningClasses.pdb
+E:\Telerik2nd\C OOP\DefiningClassesPart1\DefiningClasses\bin\Debug\DefiningClasses.exe
+E:\Telerik2nd\C OOP\DefiningClassesPart1\DefiningClasses\bin\Debug\DefiningClasses.pdb
+E:\Telerik2nd\C OOP\DefiningClassesPart1\DefiningClasses\obj\Debug\DefiningClasses.csprojResolveAssemblyReference.cache
+D:\Telerik\C#\OOP\DefiningClassesPart1\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+D:\Telerik\C#\OOP\DefiningClassesPart1\DefiningClasses\obj\Debug\DefiningClasses.exe
+D:\Telerik\C#\OOP\DefiningClassesPart1\DefiningClasses\obj\Debug\DefiningClasses.pdb

@@ -1,0 +1,5 @@
+E:\Telerik2nd\C OOP\DefiningClasses2\DefiningClassesPart8-11\bin\Debug\DefiningClassesPart8-11.exe.config
+E:\Telerik2nd\C OOP\DefiningClasses2\DefiningClassesPart8-11\bin\Debug\DefiningClassesPart8-11.exe
+E:\Telerik2nd\C OOP\DefiningClasses2\DefiningClassesPart8-11\bin\Debug\DefiningClassesPart8-11.pdb
+E:\Telerik2nd\C OOP\DefiningClasses2\DefiningClassesPart8-11\obj\Debug\DefiningClassesPart8-11.exe
+E:\Telerik2nd\C OOP\DefiningClasses2\DefiningClassesPart8-11\obj\Debug\DefiningClassesPart8-11.pdb
